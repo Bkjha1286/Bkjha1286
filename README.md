@@ -22,9 +22,8 @@ Specialization in Artificial Intelligence & Machine Learning (AIML)
 ---
 
 ## Projects
-- Movie Recommendation System – Built using collaborative filtering techniques  
-- Spam Email Detection – Machine learning model to classify spam vs. ham  
-- Tic Tac Toe Game (Pygame) – Interactive game with custom rules
+- Mobile Phone System – Simulated functionalities of a phone system using OOP concepts in C++  
+- Student Performance Prediction – Machine learning model to predict academic performance using supervised learning techniques  
 
 ---
 
@@ -36,3 +35,4 @@ Specialization in Artificial Intelligence & Machine Learning (AIML)
 ---
 
 Feel free to explore my repositories and connect with me for collaboration or opportunities.
+
