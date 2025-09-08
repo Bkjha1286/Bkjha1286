@@ -22,7 +22,7 @@ Specialization in Artificial Intelligence & Machine Learning (AIML)
 ---
 
 ## Projects
-- Mobile Phone System – Simulated functionalities of a phone system using OOP concepts in C++  
+- Movie Recommendation System – Suggested movies to users using collaborative filtering techniques in Python  
 - Student Performance Prediction – Machine learning model to predict academic performance using supervised learning techniques  
 
 ---
